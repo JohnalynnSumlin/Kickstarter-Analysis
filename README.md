@@ -1,4 +1,15 @@
-# Analysis of Kickstarter Campaigns
-Performing analysis on kickstarter data to uncover trends
-[PivotChart - Parent Category Outcomes](This PC/Documents/Class Folder AKA Project Folder/PivotChart - Parent Category Outcomes.png)
-[PivotChart- Count of outcome vs Month](This PC/Documents/Class Folder AKA Project Folder/PivotChart- Count of outcome vs Month.png)
+## Kickstarter Analysis
+
+Welcome to the first weekly challenge in this course. Your weekly challenges provide an opportunity for you to build on the skills you have learned in the module. These challenges are required and will be graded.
+
+In this challenge, you will continue to exercise your Excel prowess! This time, you will create two new analyses: outcomes based on goals and outcomes based on launch date.
+
+## Background
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
+
+## What You're Creating
+This new assignment consists of two technical analysis deliverables and a written report to deliver your results. You will submit the following:
+
+* Deliverable 1: Outcomes Based on Launch Date Chart
+* Deliverable 2: Outcomes Based on Goals Chart
+* Deliverable 3: A written analysis of the results (README.md)
